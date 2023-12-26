@@ -1,1 +1,1 @@
-# Disease_Classification_Project
+# Skin_Disease_Classification_Project
